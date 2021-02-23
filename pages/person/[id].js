@@ -4,6 +4,7 @@ import Layout from "../../components/Layout";
 import sanity from "../../lib/sanity";
 import listStyles from "../../styles/list";
 import imageUrlFor from "../../utils/imageUrlFor";
+var azure = require('azure-storage');
 
 const personsQuery = `*[_type == "person"] { _id }`;
 

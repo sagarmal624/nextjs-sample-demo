@@ -1,4 +1,4 @@
-# Sanity + Next.js frontend example
+
 
 ## Prerequisites
 
